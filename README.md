@@ -5,7 +5,7 @@
 - 🚀 I’m interested in Backend 
 - 🌱 I’m currently learning JAVA e C 
 - 👩🏻‍💻 I'm looking to collaborate as an intern to better develop in the area 
-- 📫 How to reach me, e-mail: alessandra.ams99@gmail.com
+- 📫 alessandra.ams99@gmail.com
 
 <!---
 alesssandra-moreira/alesssandra-moreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
