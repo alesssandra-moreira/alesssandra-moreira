@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @alesssandra-moreira
-- ✨ I'm 22 years old
-- 🎓 I am a Systems Analysis and Development student.
-- 🖥️ Student of JAVA Developer | C
-- 🚀 I’m interested in Backend 
-- 🌱 I’m currently learning JAVA e C 
-- 👩🏻‍💻 I'm looking to collaborate as an intern to better develop in the area 
+- 👋 Olá! Seja bem-vindo(a);
+- ✨ Tenho 22 anos;
+- 🎓 Curso Análises e Desenvolvimento de Sistemas 2/4;
+- 🖥️ Foco em JAVA Developer;
+- 🌱 Atualmente me aprimorando em "Lógica de Programação com JAVA;
 - 📫 alessandra.ams99@gmail.com
 
 <!---
