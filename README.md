@@ -1,8 +1,8 @@
 - 👋 Olá! Seja bem-vindo(a);
-- ✨ Tenho 22 anos;
-- 🎓 Curso Análises e Desenvolvimento de Sistemas 2/4;
-- 🖥️ Foco em JAVA Developer;
-- 🌱 Atualmente me aprimorando em "Lógica de Programação com JAVA;
+- ✨ 22 anos;
+- 🎓 Cursando Análises e Desenvolvimento de Sistemas 2/4;
+- 🖥️ JAVA Developer;
+- 🌱 Atualmente me aprimorando em Lógica de Programação, criando projetinhos em JAVA;
 - 📫 alessandra.ams99@gmail.com
 
 <!---
